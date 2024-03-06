@@ -1,0 +1,7 @@
+C:\Users\50247\source\repos\Programa_promedio_de_ventas\Programa_promedio_de_ventas\bin\Debug\Programa_promedio_de_ventas.exe.config
+C:\Users\50247\source\repos\Programa_promedio_de_ventas\Programa_promedio_de_ventas\bin\Debug\Programa_promedio_de_ventas.exe
+C:\Users\50247\source\repos\Programa_promedio_de_ventas\Programa_promedio_de_ventas\bin\Debug\Programa_promedio_de_ventas.pdb
+C:\Users\50247\source\repos\Programa_promedio_de_ventas\Programa_promedio_de_ventas\obj\Debug\Programa_promedio_de_ventas.csproj.AssemblyReference.cache
+C:\Users\50247\source\repos\Programa_promedio_de_ventas\Programa_promedio_de_ventas\obj\Debug\Programa_promedio_de_ventas.csproj.CoreCompileInputs.cache
+C:\Users\50247\source\repos\Programa_promedio_de_ventas\Programa_promedio_de_ventas\obj\Debug\Programa_promedio_de_ventas.exe
+C:\Users\50247\source\repos\Programa_promedio_de_ventas\Programa_promedio_de_ventas\obj\Debug\Programa_promedio_de_ventas.pdb

@@ -1,0 +1,7 @@
+C:\Users\50247\source\repos\Programa_Convertidor\Programa_Convertidor\bin\Debug\Programa_Convertidor.exe.config
+C:\Users\50247\source\repos\Programa_Convertidor\Programa_Convertidor\bin\Debug\Programa_Convertidor.exe
+C:\Users\50247\source\repos\Programa_Convertidor\Programa_Convertidor\bin\Debug\Programa_Convertidor.pdb
+C:\Users\50247\source\repos\Programa_Convertidor\Programa_Convertidor\obj\Debug\Programa_Convertidor.csproj.AssemblyReference.cache
+C:\Users\50247\source\repos\Programa_Convertidor\Programa_Convertidor\obj\Debug\Programa_Convertidor.csproj.CoreCompileInputs.cache
+C:\Users\50247\source\repos\Programa_Convertidor\Programa_Convertidor\obj\Debug\Programa_Convertidor.exe
+C:\Users\50247\source\repos\Programa_Convertidor\Programa_Convertidor\obj\Debug\Programa_Convertidor.pdb

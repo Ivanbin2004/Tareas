@@ -1,0 +1,14 @@
+C:\Users\50247\source\repos\Programa_sueldo\Programa_sueldo\bin\Debug\Programa_sueldo.exe.config
+C:\Users\50247\source\repos\Programa_sueldo\Programa_sueldo\bin\Debug\Programa_sueldo.exe
+C:\Users\50247\source\repos\Programa_sueldo\Programa_sueldo\bin\Debug\Programa_sueldo.pdb
+C:\Users\50247\source\repos\Programa_sueldo\Programa_sueldo\obj\Debug\Programa_sueldo.csproj.AssemblyReference.cache
+C:\Users\50247\source\repos\Programa_sueldo\Programa_sueldo\obj\Debug\Programa_sueldo.csproj.CoreCompileInputs.cache
+C:\Users\50247\source\repos\Programa_sueldo\Programa_sueldo\obj\Debug\Programa_sueldo.exe
+C:\Users\50247\source\repos\Programa_sueldo\Programa_sueldo\obj\Debug\Programa_sueldo.pdb
+C:\Users\50247\Desktop\Programa_sueldo\Programa_sueldo\bin\Debug\Programa_sueldo.exe.config
+C:\Users\50247\Desktop\Programa_sueldo\Programa_sueldo\bin\Debug\Programa_sueldo.exe
+C:\Users\50247\Desktop\Programa_sueldo\Programa_sueldo\bin\Debug\Programa_sueldo.pdb
+C:\Users\50247\Desktop\Programa_sueldo\Programa_sueldo\obj\Debug\Programa_sueldo.csproj.AssemblyReference.cache
+C:\Users\50247\Desktop\Programa_sueldo\Programa_sueldo\obj\Debug\Programa_sueldo.csproj.CoreCompileInputs.cache
+C:\Users\50247\Desktop\Programa_sueldo\Programa_sueldo\obj\Debug\Programa_sueldo.exe
+C:\Users\50247\Desktop\Programa_sueldo\Programa_sueldo\obj\Debug\Programa_sueldo.pdb
